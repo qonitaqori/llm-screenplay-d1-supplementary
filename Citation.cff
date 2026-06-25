@@ -1,0 +1,14 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the associated paper."
+title: "LLM Screenplay D1 Benchmark"
+authors:
+  - family-names: Qonita
+    given-names: Qori
+  - family-names: Adiwijaya
+    given-names: Adiwijaya
+  - family-names: Al Faraby
+    given-names: Said
+  - family-names: Suwastika
+    given-names: Novian Anggis
+type: dataset
